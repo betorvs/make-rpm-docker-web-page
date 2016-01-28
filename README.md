@@ -26,7 +26,7 @@ Source0:	website-1.0.0.0.tar.gz
 ## Test this RPM with this simple script test.sh:
 
 ```
-./test.sh test website-1.0.0-0.noarch.rpm website
+./test.sh test website-1.0.0-0.el6.noarch.rpm website website
 ```
 
 ## How to adapt for my website with more archives:

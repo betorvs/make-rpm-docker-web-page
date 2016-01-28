@@ -26,7 +26,7 @@ Source0:	website-1.0.0.0.tar.gz
 ## Execute um teste de instalação com o script test.sh:
 
 ```
-./test.sh test website-1.0.0-0.noarch.rpm website
+./test.sh test website-1.0.0-0.el6.noarch.rpm website website
 ```
 
 ## Como adaptar este website para mais arquivos:
